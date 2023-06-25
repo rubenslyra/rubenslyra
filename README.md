@@ -1,4 +1,4 @@
-# Rubens Lyra - Desenvolvedor de Software
+# Rubens Lyra - Analista Desenvolvedor de Software
 
 Bem-vindo(a) ao repositório do GitHub de Rubens Lyra! Aqui você encontrará uma variedade de projetos e soluções desenvolvidas por um entusiasta de tecnologia e apaixonado por programação.
 
