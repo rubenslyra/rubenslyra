@@ -2,12 +2,13 @@
 
 Bem-vindo(a) ao repositório do GitHub de Rubens Lyra! Aqui você encontrará uma variedade de projetos e soluções desenvolvidas por um entusiasta de tecnologia e apaixonado por programação.
 
+<!--
+
 ## Sobre mim
 
 Sou um desenvolvedor de software com ampla experiência em diversas áreas, incluindo desenvolvimento web, aplicativos móveis e soluções empresariais. Minha paixão por resolver problemas e criar soluções inovadoras me levou a explorar diferentes tecnologias e frameworks.
 
-**rubenslyra/rubenslyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
+
 **rubenslyra/rubenslyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
