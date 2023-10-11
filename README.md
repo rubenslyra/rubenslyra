@@ -3,7 +3,7 @@
 <p align="justify">Bem-vindo(a) ao repositório do GitHub de Rubens Lyra! Aqui você encontrará uma variedade de projetos e soluções desenvolvidas por um entusiasta de tecnologia e apaixonado por programação.</b> </p>
 
 <div align="center">
-  <img src="/raning.gif"/>
+  <img src="03.gif"/>
 </div>
 
 ## Technologies
