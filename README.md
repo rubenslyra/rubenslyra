@@ -16,5 +16,5 @@
 <br/>
 
 # Recent Activities
-<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenslyra&langs_count=10&layout=compact&theme=shades-of-purple" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenslyra&langs_count=10&layout=compact&theme=shades-of-purple" />
 
