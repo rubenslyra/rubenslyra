@@ -15,7 +15,7 @@
   </div>
 </div>
 
-# Recent Activities
+## Recent Activities
 <div align="center">
-  <img width="75%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenslyra&langs_count=10&layout=compact&theme=shades-of-purple" />
+  <img width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenslyra&langs_count=10&layout=compact&theme=shades-of-purple" />
 </div>
