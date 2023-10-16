@@ -1,4 +1,4 @@
-## Technologies
+## Linguagens e Tecnologias
 <div align="center">
   <img alt=".NET" height="32px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img alt="PHP" height="32px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -15,7 +15,7 @@
   </div>
 </div>
 
-## Recent Activities
+## Atividades Recentes
 <div align="center">
   <img width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenslyra&langs_count=10&layout=compact&theme=shades-of-purple" />
 </div>
