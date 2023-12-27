@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  Desenvolvedor e músico, Rubens Lyra é um entusiasta da interação humano-computador, buscando incessantemente as melhores formas de criar pontes entre humanos e tecnologias. Este artigo reflete seu comprometimento com a disseminação de conhecimento e a promoção de práticas avançadas no desenvolvimento ASP.NET Core.
+</p>
+
+<p align="center">
   <img src="03.gif" class="responsive-gif" alt="Projeto em ação"/>
 </p>
 
