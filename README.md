@@ -18,16 +18,7 @@ Atuação orientada a **segurança**, **padronização**, **manutenibilidade** e
 
 ---
 
-## Linguagens no Repositório (calculado do código do projeto)
 
-> Este card é gerado a partir dos arquivos do próprio repositório (varredura por extensão),
-> e é atualizado automaticamente via GitHub Actions.
-
-<p align="center">
-  <img src="./assets/lang-card.svg" alt="Language usage (repo scan)" />
-</p>
-
----
 
 ## Foco Técnico
 
