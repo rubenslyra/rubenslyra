@@ -9,7 +9,7 @@
   <img alt="PHP" height="28" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="PostgreSQL" height="28" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="SQL Server" height="28" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img alt="Firebird" height="28" src="https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge&logoColor=white"/>
+  <img alt="Firebird" height="28" src="https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge&logo=firebird&logoColor=white"/>
 </p>
 
 ---
