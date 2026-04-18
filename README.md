@@ -4,9 +4,12 @@
   <img alt="git" height="28" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt=".NET" height="28" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img alt="C#" height="28" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="Java" height="28" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Python" height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="PHP" height="28" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="PostgreSQL" height="28" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="SQL Server" height="28" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img alt="Firebird" height="28" src="https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge&logo=firebird&logoColor=white"/>
 </p>
 
 ---
@@ -28,6 +31,7 @@ Atuação orientada a **segurança**, **padronização**, **manutenibilidade** e
 - Multitenancy
 - Data Modeling & Migrations
 - Production-ready systems
+- Modernização e integração de sistemas legados
 
 ---
 
@@ -47,6 +51,8 @@ Atuação orientada a **segurança**, **padronização**, **manutenibilidade** e
 **Backend**
 
 - .NET (C#)
+- Java
+- Python
 - PHP (Laravel)
 
 **Bancos de Dados**
@@ -54,6 +60,7 @@ Atuação orientada a **segurança**, **padronização**, **manutenibilidade** e
 - PostgreSQL
 - SQL Server
 - MySQL
+- Firebird
 
 **Arquitetura & Práticas**
 
