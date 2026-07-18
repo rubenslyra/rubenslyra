@@ -34,60 +34,7 @@ Atualmente meu foco está em:
 
 > _"Software deve ser previsível, sustentável por equipes e seguro por padrão."_
 
----
 
-## 💼 Experiência Profissional
-
-### Desenvolvedor Full Stack | QRZTech
-*04/2023 - 11/2023*
-
-- Atuação no ciclo completo de desenvolvimento, do levantamento ao deploy
-- Destaque no projeto **Crown Shop**: arquitetura orientada a eventos, mensageria, multi-tenancy, Elasticsearch, E2E testing
-- Desenvolvimento de **agentes de IA** e automações com foco em integração de serviços e orquestração de fluxos
-
-### Desenvolvedor .NET / PHP | Globalsys
-*04/2023 - 11/2023*
-
-- Plataforma **V1** de mobilidade corporativa para transporte particular
-- .NET 5, Dapper, EF Core, SQL Server, PostgreSQL, REST APIs
-- DDD, arquitetura hexagonal, RabbitMQ, Redis
-
-### Analista de Sistemas PL | Tempo Software
-*11/2022 - 02/2023*
-
-- Manutenção e evolução do sistema **Autorizador**
-- .NET Framework 4.5, .NET 5, ASP.NET MVC, SQL Server, Dapper, EF
-- Integração com API **GOV.BR** em XML, RabbitMQ, Redis
-
-### Analista de Sistemas | Rede Gazeta (Rádio e TV)
-*12/2021 - 08/2022*
-
-- Sistemas internos para rádio, TV e produtos digitais: Multi-viewer, Kadu-Rádio/TV, RoteiroWeb, Rádio Gazeta, Litoral FM
-- ASP.NET Core, Angular 7, .NET Framework 4.5, MVC 4, Razor, SQL Server, MySQL
-- IIS, GitLab, Jenkins, automação de entregas
-
-### Desenvolvedor PHP | Elyon Indústria Gráfica (MrPrint)
-*11/2020 - 08/2021*
-
-- Sistemas web e API de atendimento ao cliente
-- PHP, Laravel, WordPress, JavaScript, Bootstrap, MySQL, Eloquent
-- Integrações via webhooks
-
-### Desenvolvedor Backend | TechSystem
-*12/2019 - 10/2020*
-
-- API REST para produtos e gateway de pagamentos
-- Integrações com **Mercado Pago, Cielo e Stone**
-- PHP, Laravel, PostgreSQL, Redis, ERP Sankhya
-- Git Flow e Conventional Commits
-
-### Instrutor de Informática | Prepara Cursos
-*02/2019 - 11/2019*
-
-- Elaboração e aplicação de conteúdo, treinamentos e palestras
-- Suporte técnico e orientação prática
-
----
 
 ## 🛠️ Stack Técnica
 
