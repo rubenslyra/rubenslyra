@@ -67,23 +67,13 @@ Docker, Kubernetes, Rancher, Vagrant, Terraform, IIS, Windows Server, Nginx, Kem
 Azure DevOps, GitLab CI/CD, GitHub Actions, Jenkins, Git, GitHub, GitLab, Bitbucket
 
 ### Ferramentas & Testing
-Swagger, Postman, Insomnia, SoapUI, xUnit, NUnit, E2E Testing
-
----
-------|-----------|-------|
-| [AudioLabEditor](https://github.com/rubenslyra/AudioLabEditor) | Editor de áudio/vídeo com IA — capture, edite e separe áudio usando Demucs | Python, CustomTkinter, FFmpeg, yt-dlp |
-| [MVP-AudioStemLab](https://github.com/rubenslyra/MVP-AudioStemLab) | Separação de stems musicais com IA (terminal/MVP) | Python, Demucs |
-| [Fluxo-Mestre (FluxoLab)](https://github.com/rubenslyra/fluxo-mestre) | Criador visual de fluxogramas ISO 5807 para aulas de lógica e algoritmos | TypeScript |
-| [Betario](https://github.com/rubenslyra/Betario) | Plataforma de apostas | TypeScript |
-| [sistema-avaliacao-python-opa2](https://github.com/rubenslyra/sistema-avaliacao-python-opa2) | Sistema acadêmico de avaliação EAD (UVV) | Python |
-
----
+Swagger, Postman, Insomnia, SoapUI, xUnit, NUnit, E2E Testing---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rubenslyra&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenslyra&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rubenslyra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenslyra&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 ---
