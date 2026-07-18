@@ -70,11 +70,7 @@ Azure DevOps, GitLab CI/CD, GitHub Actions, Jenkins, Git, GitHub, GitLab, Bitbuc
 Swagger, Postman, Insomnia, SoapUI, xUnit, NUnit, E2E Testing
 
 ---
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
+------|-----------|-------|
 | [AudioLabEditor](https://github.com/rubenslyra/AudioLabEditor) | Editor de áudio/vídeo com IA — capture, edite e separe áudio usando Demucs | Python, CustomTkinter, FFmpeg, yt-dlp |
 | [MVP-AudioStemLab](https://github.com/rubenslyra/MVP-AudioStemLab) | Separação de stems musicais com IA (terminal/MVP) | Python, Demucs |
 | [Fluxo-Mestre (FluxoLab)](https://github.com/rubenslyra/fluxo-mestre) | Criador visual de fluxogramas ISO 5807 para aulas de lógica e algoritmos | TypeScript |
