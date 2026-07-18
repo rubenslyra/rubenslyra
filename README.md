@@ -87,24 +87,6 @@ Swagger, Postman, Insomnia, SoapUI, xUnit, NUnit, E2E Testing
 </p>
 
 ---
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rubenslyra/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rubenslyra-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/rubenslyra">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@rubenslyra-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:ti.rubens.lyra@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-ti.rubens.lyra%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://rubinholyra.com.br">
-    <img alt="Website" src="https://img.shields.io/badge/Web-rubinholyra.com.br-000000?style=for-the-badge&logo=About.me"/>
-  </a>
-</p>
-
----
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=4b2e83&height=120&section=footer)
