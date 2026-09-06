@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4b2e83&height=200&section=header&text=Rubens%20Lyra&fontSize=44&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=EBC9A5&height=200&section=header&text=Rubens%20Lyra&fontSize=44&fontColor=3A2E20&animation=fadeIn)
 
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -77,4 +77,4 @@
 
 Sempre aberto a novas oportunidades, projetos desafiadores e parcerias técnicas.
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=4b2e83&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=EBC9A5&height=120&section=footer)
